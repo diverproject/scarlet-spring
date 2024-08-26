@@ -38,7 +38,7 @@
 		<maven.build.version>3.1</maven.build.version>
 		<hibernate.version>5.4.5.Final</hibernate.version>
 		<spring.boot.version>2.3.0.M1</spring.boot.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<scarlet.version>0.1.0</scarlet.version>
 	</properties>
 
